@@ -2,7 +2,7 @@
  * Created by Keen on 2015/11/11.
  */
 
-// ä¯ÀÀÆ÷ÊôĞÔÅĞ¶Ï
+// æµè§ˆå™¨å±æ€§åˆ¤æ–­
 var client = function () {
     var engine = {
         ie: 0,

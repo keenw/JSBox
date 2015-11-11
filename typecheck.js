@@ -2,7 +2,7 @@
  * Created by Keen on 2015/11/11.
  */
 
-// 获取类型
+// 鑾峰彇绫诲瀷
 var class2type = {};
 Array.prototype.map.call("Boolean Number String Function Array Date RegExp Object Error".split(" "), function (item, index, array) {
     class2type["[object " + item + "]"] = item.toLowerCase();
