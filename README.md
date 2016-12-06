@@ -29,4 +29,4 @@ form.submit();
 * `for in`循环的变量，必须先判断变量不为null和undefined，因为有些浏览器执行for in循环变量为null和undefined会报错<br>
 `for in`循环对象时，返回的是所有能够通过对象访问的、可枚举的的属性，既包括存在于实例中的属性，也包括存在于原型中的属性。`hasOwnProperty`只能获取自定义属性，无法获取原型链属性。<br>
 
-###js ajax和跨域
+###js ajax和跨域 正在完善中
